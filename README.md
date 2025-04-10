@@ -14,7 +14,7 @@ There are also several purchasable game passes, including a gravity coil, speed 
 
 I built this game to fulfill a childhood dream of creating a fully scripted experience entirely on my own, instead of relying on pre-made assets or code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/bKMCj7mQKpQ))
 
 # Development Environment
 

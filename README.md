@@ -1,3 +1,7 @@
+<p style="color:red;">
+⚠️ <strong>Important Note:</strong> Due to platform limitations, Roblox Studio does not support integration with GitHub or any external version control systems. As a result, my project code cannot be hosted on GitHub. All code is currently saved within my Roblox account and is showcased in a walkthrough video on YouTube. If code access is required for review, I can temporarily grant view access to a Roblox account you provide. Please let me know if this is needed.
+</p>
+
 # Overview
 
 As a software engineer passionate about game development, I created this Roblox game to further my skills in scripting, game mechanics, and user interaction. This project helped me gain hands-on experience with Lua programming and exposed me to client-server interactions within the Roblox platform.
